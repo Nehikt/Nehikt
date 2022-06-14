@@ -24,6 +24,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nehikt&show_icons=true&locale=en&layout=compact" alt="nehikt" /></p>
+<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=nehikt&show_icons=true&locale=en&layout=compact" alt="nehikt" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nehikt&show_icons=true&locale=en" alt="nehikt" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nehikt&" alt="nehikt" /></p>
