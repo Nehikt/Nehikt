@@ -1,4 +1,4 @@
-[MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm neha kumari</h1>
 
 <h3 align="center">Tech enthusiast| B.Sc.(hons.) Computer Science Student DU(SRCASW)|@Treasurer Robotics Club(2021-22)|@Member GDSC(2020-PRESENT) | SRCASW </h3>
